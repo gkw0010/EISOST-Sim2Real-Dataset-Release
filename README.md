@@ -5,7 +5,7 @@ EISOST is a Sim-to-Real oropharyngeal organs segmentation dataset, including 139
 
 # Image Style-Transfer for Domain Adaption
 To reduce the differences between two datasets, we try to introduce style-transfer method. With the help of ArtFlow, we convert the appearance of virtual images into real oropharyngeal organs' appearance, thereby enhancing the sense of photo-realistic of virtual data while preserving useful anatomical features for model training.
-The results (transfer image) of the representative image style-transfer and the corresponding styles are shown below.
+The transfer content and result (transfer image) of the representative image are shown below.
 
 ![Image text](https://github.com/gkw0010/EISOST-Sim2Real-Dataset-Release/blob/main/Style-Transfer.png)
 
