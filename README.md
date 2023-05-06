@@ -1,1 +1,1 @@
-# Oropharyngeal Organs Sim-to-Real dataset
+# Sim-to-Real dataset for Oropharyngeal Organs
