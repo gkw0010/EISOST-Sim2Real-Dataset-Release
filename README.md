@@ -1,11 +1,10 @@
 # Endoscopic Images generated from SOFA-based oropharynx model with style transfer from phantom (EISOST)
-EISOST is a Sim-to-Real oropharyngeal organs segmentation dataset, including 1397 labeld images. The dataset consists of 3 necessary oropharyngeal organs, namely, the uvula, epiglottis, and glottis. Training data (source image) includes 1194 images sampled from SOFA-based oropharynx model. Test data (test image) includes 203 images captured on a real-world phantom. For the annotations, we provide coarse and fine annotations at the pixel level, including instance-level labels for oropharyngeal organs.
+EISOST is a Sim-to-Real oropharyngeal organs segmentation dataset, including 1397 labeled images. The dataset consists of 3 necessary oropharyngeal organs: the uvula, epiglottis, and glottis. Training data (source image) includes 1194 images sampled from the SOFA-based oropharynx model. Test data (test image) contains 203 images captured on a real-world phantom. For the annotations, we provide coarse and fine annotations at the pixel level, including instance-level labels for oropharyngeal organs.
 
 ![Image text](https://github.com/gkw0010/EISOST-Sim2Real-Dataset-Release/blob/main/Representative_image.png)
 
 # Image Style-Transfer for Domain Adaption
-To reduce the differences between two datasets, we try to introduce style-transfer method. With the help of ArtFlow, we convert the appearance of virtual images into real oropharyngeal organs' appearance, thereby enhancing the sense of photo-realistic of virtual data while preserving useful anatomical features for model training.
-The transfer content and result (transfer image) of the representative image are shown below.
+To reduce the differences between the two datasets, we try to introduce the style-transfer method. With the help of ArtFlow, we convert the appearance of virtual images into real oropharyngeal organs' appearance, thereby enhancing the sense of photo-realistic of virtual data while preserving useful anatomical features for model training. The transfer content and result (transfer image) of the representative image are shown below.
 
 ![Image text](https://github.com/gkw0010/EISOST-Sim2Real-Dataset-Release/blob/main/Style-Transfer.png)
 
