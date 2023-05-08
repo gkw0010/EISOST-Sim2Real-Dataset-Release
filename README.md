@@ -22,7 +22,9 @@ To alleviate the rapid degradation of segmentation performance due to large diff
 The details of IRB-AF will be presented in our work **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**(under review). 
 
 The source code for our baseline model comes from [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library)
+
 The source code for image style-transfer comes from [ArtFlow](https://github.com/pkuanjie/ArtFlow)
+
 A simple implementation of image style-transfer is included in this repository.
 
  # Attention
