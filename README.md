@@ -27,5 +27,9 @@ The source code for image style-transfer comes from [ArtFlow](https://github.com
 
 A simple implementation of image style-transfer is included in this repository. You can find it in the directory `easycode2style-transfer`. A typical usage is
 
+```
+python easycode2style-transfer/styletransfer.py
+```
+
  # Attention
 EISOST dataset is free for research purpose only. For any questions about the dataset, please contact: gkwang@link.cuhk.edu.hk.
