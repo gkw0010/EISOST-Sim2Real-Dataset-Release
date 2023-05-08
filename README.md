@@ -28,6 +28,8 @@ The source code for image style-transfer comes from [ArtFlow](https://github.com
 A simple implementation of image style-transfer is included in this repository. You can find it in the directory `easycode2style-transfer`. A typical usage is
 
 ```
+# you can change the root of content images and style images in styletransfer.py
+# During style-transfer, style images will be randomly selected and transferred to the content images
 python easycode2style-transfer/styletransfer.py
 ```
 
