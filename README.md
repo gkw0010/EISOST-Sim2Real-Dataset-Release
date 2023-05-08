@@ -25,7 +25,7 @@ The source code for our baseline model comes from [Transfer Learning Library](ht
 
 The source code for image style-transfer comes from [ArtFlow](https://github.com/pkuanjie/ArtFlow)
 
-A simple implementation of image style-transfer is included in this repository. You can find it in the directory 'easycode2style-transfer'. A typical usage is
+A simple implementation of image style-transfer is included in this repository. You can find it in the directory `easycode2style-transfer`. A typical usage is
 
  # Attention
 EISOST dataset is free for research purpose only. For any questions about the dataset, please contact: gkwang@link.cuhk.edu.hk.
