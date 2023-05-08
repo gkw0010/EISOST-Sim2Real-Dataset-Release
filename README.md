@@ -19,6 +19,11 @@ To reduce the differences between the two datasets, we try to introduce the styl
 
 To alleviate the rapid degradation of segmentation performance due to large differences between datasets, we introduce our domain adaption segmentation in two aspects. The first is IoU-Ranking Blend which is a compelling dataset blending strategy used for the Sim-to-Real training. Another mothod is image style-transfer. It is used to further reduce the differences between the source domain and the target domain through image style. We integrate the above two methods and propose IRB-AF that aligns the image distributions of different datasets in terms of content and style.
 
+The details of IRB-AF will be presented in our work **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**(under review). 
+
+The source code for our baseline model comes from [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library)
+The source code for image style-transfer comes from [ArtFlow](https://github.com/pkuanjie/ArtFlow)
+A simple implementation of image style-transfer is included in this repository.
 
  # Attention
 EISOST dataset is free for research purpose only. For any questions about the dataset, please contact: gkwang@link.cuhk.edu.hk.
