@@ -4,12 +4,11 @@
 
 <h2> Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs </h1>
 
+<h4> Guankun Wang, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren </h3>
+
 </samp>   
 
 </div>     
-
-<h4> Guankun Wang, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren </h3>
-
 
 If you find our code or paper useful, please cite as
 
