@@ -8,6 +8,19 @@
 
 </div>     
 
+<h4> Guankun Wang, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren </h3>
+
+
+If you find our code or paper useful, please cite as
+
+```bibtex
+@article{wang2023domain,
+  title={Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs},
+  author={Wang, Guankun and Ren, Tian-Ao and Lai, Jiewen and Bai, Long and Ren, Hongliang},
+  journal={arXiv preprint arXiv:2305.10883},
+  year={2023}
+}
+```
 
 ## Dataset: Endoscopic Images generated from SOFA-based oropharynx model with style transfer from phantom (EISOST)
 EISOST is a Sim-to-Real oropharyngeal organs segmentation dataset, including 1397 labeled images. The dataset consists of 3 necessary oropharyngeal organs: the uvula, epiglottis, and glottis. Training data (source image) includes 1194 images sampled from the SOFA-based oropharynx model. Test data (test image) contains 203 images captured on a real-world phantom. For the annotations, we provide coarse and fine annotations at the pixel level, including instance-level labels for oropharyngeal organs.
