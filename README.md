@@ -14,10 +14,11 @@ If you find our code or paper useful, please cite as
 
 ```bibtex
 @article{wang2023domain,
-  title={Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs},
-  author={Wang, Guankun and Ren, Tian-Ao and Lai, Jiewen and Bai, Long and Ren, Hongliang},
-  journal={arXiv preprint arXiv:2305.10883},
-  year={2023}
+	title = {Domain adaptive Sim-to-Real segmentation of oropharyngeal organs},
+  author = {Wang, Guankun and Ren, Tian-Ao and Lai, Jiewen and Bai, Long and Ren, Hongliang},
+  journal = {Medical & Biological Engineering & Computing},
+	year={2023},
+  publisher={Springer}
 }
 ```
 
