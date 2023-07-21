@@ -10,18 +10,6 @@
 
 </div>     
 
-If you find our code or paper useful, please cite as
-
-```bibtex
-@article{wang2023domain,
-	title = {Domain adaptive Sim-to-Real segmentation of oropharyngeal organs},
-  author = {Wang, Guankun and Ren, Tian-Ao and Lai, Jiewen and Bai, Long and Ren, Hongliang},
-  journal = {Medical & Biological Engineering & Computing},
-	year={2023},
-  publisher={Springer}
-}
-```
-
 ## Dataset: Endoscopic Images generated from SOFA-based oropharynx model with style transfer from phantom (EISOST)
 EISOST is a Sim-to-Real oropharyngeal organs segmentation dataset, including 1397 labeled images. The dataset consists of 3 necessary oropharyngeal organs: the uvula, epiglottis, and glottis. Training data (source image) includes 1194 images sampled from the SOFA-based oropharynx model. Test data (test image) contains 203 images captured on a real-world phantom. For the annotations, we provide coarse and fine annotations at the pixel level, including instance-level labels for oropharyngeal organs.
 
@@ -55,6 +43,18 @@ A simple implementation of image style-transfer is included in this repository. 
 # you can change the root of content images and style images in styletransfer.py
 # During style-transfer, style images will be randomly selected and transferred to the content images
 python easycode2style-transfer/styletransfer.py
+```
+
+If you find our code or paper useful, please cite as
+
+```bibtex
+@article{wang2023domain,
+  title = {Domain adaptive Sim-to-Real segmentation of oropharyngeal organs},
+  author = {Wang, Guankun and Ren, Tian-Ao and Lai, Jiewen and Bai, Long and Ren, Hongliang},
+  journal = {Medical & Biological Engineering & Computing},
+  year={2023},
+  publisher={Springer}
+}
 ```
 
 ## Attention
