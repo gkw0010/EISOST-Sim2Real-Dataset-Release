@@ -58,7 +58,7 @@ If you find our code or paper useful, please cite as
 ```
 
 ## ICRA 2023 Workshop: Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation
-Related work on Sim-to-Real Segmentation has been accepted by ICRA 2023 Workshop. Our poster won the Best Poster Award can be accessed in EISOST-Sim2Real-Dataset-Release/ICRA 2023 Workshop Poster/
+Related work on Sim-to-Real Segmentation has been accepted by ICRA 2023 Workshop. Our poster won the Best Poster Award and can be accessed in EISOST-Sim2Real-Dataset-Release/ICRA 2023 Workshop Poster/
 
 ## Attention
 EISOST dataset is free for research purpose only. For any questions about the dataset, please contact: gkwang@link.cuhk.edu.hk.
